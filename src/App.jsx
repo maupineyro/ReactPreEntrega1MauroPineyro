@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <ItemListContainer />
+      <ItemListContainer greeting="Bienvenido a REACTIVE, este es el ItemListContainer" />
     </div>
   );
 }
