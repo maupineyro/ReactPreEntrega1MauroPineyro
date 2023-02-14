@@ -5,7 +5,7 @@ const CartWidget = () => {
         <li>
             <a className="linkCarrito botonMenu" href="#">
                 <i className="bi bi-cart-fill"></i><span id="numeroCarritoIndex"
-                    className="numeroEnCarrito">4</span>
+                    className="numeroEnCarrito">7</span>
             </a>
         </li>
     )
